@@ -33,3 +33,7 @@ Represented as a real number, the transaction date is the date the house was sol
 - Value:
 Measured in 10000 New Taiwan Dollars per Ping, this is the house price for which the market dictated per unit area. A Ping is equal to 3.3 metres squared.
 
+### Source
+
+Yeh, I. C., & Hsu, T. K. (2018). Building real estate valuation models with comparative approach through case-based reasoning. Applied Soft Computing, 65, 260-271.
+
